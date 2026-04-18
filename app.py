@@ -8,7 +8,7 @@ st.title("🏠 Household Hub (Cloud Version)")
 # --- GOOGLE SHEETS CONNECTION ---
 # Using your specific ID here
 SHEET_ID = "105N_R5ZGz-IQTv6YDt70ZtAHmWCBpisdtuYs8qkOlW8"
-url = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv"
+url = f"https://docs.google.com/spreadsheets/d/1O5N_R5ZGz-IQTV6YDt70ZtAHmWCbpisdtuYs8qkOlW8/gviz/tq?tqx=out:csv"
 
 try:
     # This part reads the data from your Google Sheet
