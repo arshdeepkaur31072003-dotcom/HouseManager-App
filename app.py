@@ -7,9 +7,9 @@ from datetime import datetime
 st.set_page_config(page_title="House Manager Pro", layout="wide")
 
 # REPLACE THIS with the URL you copied in Step 1
-SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_URL_HERE"
+SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx_FS7A6lEGKosq57eqy8sHw_6mlz1itHC6ZYyQXQatRAZP8WQskZKgvNESYDIGWtqZSw/exec"
 SHEET_ID = "105N_R5ZGz-IQTv6YDt70ZtAHmWCBpisdtuYs8qkOlW8"
-READ_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq?tqx=out:csv"
+READ_URL = f"https://docs.google.com/spreadsheets/d/105N_R5ZGz-IQTv6YDt70ZtAHmWCBpisdtuYs8qkOlW8/gviz/tq?tqx=out:csv"
 
 st.title("🏠 House Manager Pro (Live Sync)")
 
