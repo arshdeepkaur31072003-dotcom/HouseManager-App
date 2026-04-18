@@ -9,7 +9,7 @@ st.set_page_config(page_title="House Manager Pro", layout="wide")
 # REPLACE THIS with the URL you copied in Step 1
 SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx_FS7A6lEGKosq57eqy8sHw_6mlz1itHC6ZYyQXQatRAZP8WQskZKgvNESYDIGWtqZSw/exec"
 SHEET_ID = "105N_R5ZGz-IQTv6YDt70ZtAHmWCBpisdtuYs8qkOlW8"
-READ_URL = f"https://docs.google.com/spreadsheets/d/105N_R5ZGz-IQTv6YDt70ZtAHmWCBpisdtuYs8qkOlW8/gviz/tq?tqx=out:csv"
+READ_URL = f"https://docs.google.com/spreadsheets/d/1O5N_R5ZGz-IQTV6YDt70ZtAHmWCbpisdtuYs8qkOlW8/edit?usp=sharing"
 
 st.title("🏠 House Manager Pro (Live Sync)")
 
